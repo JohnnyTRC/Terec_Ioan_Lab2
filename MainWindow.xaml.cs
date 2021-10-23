@@ -35,7 +35,6 @@ namespace Terec_Ioan_Lab2
         private void frmMain_Loaded(object sender, RoutedEventArgs e)
         {
             myDoughnutMachine = new DoughnutMachine();
-
         }
 
         private void sugarToolStripMenuItem_Click(object sender, RoutedEventArgs e)
